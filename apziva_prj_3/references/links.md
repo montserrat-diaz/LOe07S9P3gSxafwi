@@ -1,1 +1,6 @@
-
+* Bag of Words Model - code from [Spot Intelligence](https://spotintelligence.com/2022/12/20/bag-of-words-python/)
+* * [Medium](https://medium.com/analytics-vidhya/text-classification-from-bag-of-words-to-bert-1e628a2dd4c9)
+* TF IDF Model - code from [GreeksforGeeks](https://www.geeksforgeeks.org/understanding-tf-idf-term-frequency-inverse-document-frequency/)
+* Word2Vec Model - code from [Medium](https://medium.com/@dilip.voleti/classification-using-word2vec-b1d79d375381)
+* BERT Model - code from [Towards Data Science](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270)
+* SBERT Model - code from [Towards Data Science](https://towardsdatascience.com/sbert-deb3d4aef8a4)
