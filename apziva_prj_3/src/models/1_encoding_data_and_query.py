@@ -1,4 +1,4 @@
-from sentence_transformers import SentenceTransformer, util
+from sentence_transformers import SentenceTransformer
 def encoding_data_and_query(model_name, query_sentences):
   model = SentenceTransformer(model_name)
 
